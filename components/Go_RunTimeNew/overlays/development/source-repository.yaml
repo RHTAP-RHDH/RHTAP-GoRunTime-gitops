@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: Go_RunTimeNew-repository
+spec:
+  url: https://github.com/RHTAP-RHDH/RHTAP-GoRunTime
